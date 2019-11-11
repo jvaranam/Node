@@ -20,4 +20,6 @@ You can also dynamically change the NodeJS version for a particular application 
   
  If you are using Mac OS, you need to run following command. If ~/.bash_profile file is not there, you might need to create it first.
  
+ While using "n" in mac use "sudo n 10.0.0" or use "sudo n stable" / "sudo n 12.13.0" which will change the node and npm version to the mentioned version. 
+ 
  "source ~/.bash_profile"
